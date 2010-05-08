@@ -6,17 +6,17 @@
 
 Asking the twitterverse for London travel directions
 
-!SLIDE
+!SLIDE center
 # Twube
 
-<blockquote style="font-family:17pt;font-family:Times;font-style:italic">
+<blockquote style="font-size:17pt;font-family:Times;font-style:italic">
 Anyone know how I get from Charing Cross to Kentish Town #twube
 </blockquote>
 
-!SLIDE
+!SLIDE center
 # Twube
 
-<blockquote style="font-family:17pt;font-family:Times;font-style:italic">
+<blockquote style="font-size:17pt;font-family:Times;font-style:italic">
 Anyone know how I get from <span style="color:#cc0000">Charing Cross</span> to <span style="color:#cc0000">Kentish Town</span> #twube
 </blockquote>
 

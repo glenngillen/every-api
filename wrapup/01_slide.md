@@ -19,3 +19,4 @@
 
     http://every-api.heroku.com/
     http://github.com/rubypond/every-api/
+    @glenngillen
